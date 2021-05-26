@@ -1,0 +1,11 @@
+p {
+    margin: 20px 0;
+    padding-bottom: 10px;
+    font-family: fantasy, monospace;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+div {
+    text-align: center;
+}
